@@ -1,0 +1,21 @@
+Copyright (c) 2026 Andii Hei. All rights reserved.
+
+The design, text, and original creative work in this repository are the
+property of Andii Hei and are published for viewing and showcase purposes
+only. No licence is granted to copy, redistribute, or create derivative
+works from them, except as permitted by applicable law.
+
+Third-party materials
+---------------------
+This project incorporates materials that remain under their own terms:
+
+- Film data compiled from the IMDb datasets (https://datasets.imdbws.com/),
+  used under IMDb's non-commercial terms.
+- Release, box-office, and review-aggregate details via Wikipedia, under
+  CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0/).
+- Performer portraits from Wikimedia Commons, each under the licence noted
+  in its credit line within the page.
+- Icons from Tabler Icons (https://tabler.io/icons), available under the
+  MIT License.
+
+Nothing in this notice transfers any rights in those third-party materials.
